@@ -1,0 +1,5 @@
+{
+    "python.linting.enabled": false,
+    "python.pythonPath": "/Users/qianzach/opt/anaconda3/envs/PIC16B/bin/python",
+    "git.ignoreLimitWarning": true
+}

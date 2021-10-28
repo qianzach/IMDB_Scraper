@@ -12,6 +12,8 @@ BOT_NAME = 'IMDB_scraper'
 SPIDER_MODULES = ['IMDB_scraper.spiders']
 NEWSPIDER_MODULE = 'IMDB_scraper.spiders'
 
+#ADDED BY ZACHARY QIAN ON 10/21/21: REMOVE LATER KEEP FOR NOW
+#CLOSESPIDER_PAGECOUNT = 20
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'IMDB_scraper (+http://www.yourdomain.com)'
